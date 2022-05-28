@@ -1,0 +1,9 @@
+﻿<Application x:Class="Proy2_InterfaceXAML.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Proy2_InterfaceXAML"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

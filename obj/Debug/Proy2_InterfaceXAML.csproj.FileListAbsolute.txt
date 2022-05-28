@@ -1,0 +1,16 @@
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\bin\Debug\Proy2_InterfaceXAML.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\bin\Debug\Proy2_InterfaceXAML.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\bin\Debug\Proy2_InterfaceXAML.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\MainWindow.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\App.g.cs
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML_MarkupCompile.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML_MarkupCompile.lref
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\MainWindow.baml
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.g.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\INGENIERIA DE SOFTWARE\PROYECTOS\Segundo Parcial\Proy2_InterfaceXAML\obj\Debug\Proy2_InterfaceXAML.pdb
